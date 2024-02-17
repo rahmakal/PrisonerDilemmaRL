@@ -1,2 +1,2 @@
 # PrisonerDilemmaRL
- 
+ PrisonerDilemmaRL is a Python project utilizing reinforcement learning techniques and PyTorch to train an agent to play the classic Prisoner's Dilemma game. This project provides tools for simulating gameplay, computing scores, and implementing reinforcement learning algorithms. Dive into the world of game theory, experiment with various strategies, and observe the agent's learning process with PrisonerDilemmaRL.
